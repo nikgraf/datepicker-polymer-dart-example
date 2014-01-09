@@ -1,0 +1,8 @@
+name: datepicker
+description: A sample Polymer application
+dependencies:
+  js: any
+  polymer: '>0.9.3'
+transformers:
+- polymer:
+    entry_points: web/datepicker.html
